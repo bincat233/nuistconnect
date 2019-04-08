@@ -3,7 +3,7 @@ triggerssid="i-NUIST"
 ssid=$(networksetup -getairportnetwork en0 | awk -F": " '{print $2}')
 username="guest"
 domain="NUIST"
-password="guest"
+password="Z3Vlc3Q="
 
 #echo "username=${username}&domain=${domain}&password=${password}"
 #originpwd="guest"
