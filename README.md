@@ -5,14 +5,14 @@
 # 安装与卸载
 使用以下命令安装:
 
-```bash
+``` bash
 git clone git@github.com:RRRRRm/nuistconnect.git ~/nuistconnect
 sudo ~/nuistconnect/install.sh -i
 ```
 
 卸载:
 
-```bash
+``` bash
 sudo ~/nuistconnect/install.sh -u
 rm -r ~/nuistconnect/
 ```
